@@ -1,4 +1,5 @@
 c'est mon texte 
+<<<<<<< HEAD
 mais je veux le modifier
 voila mes modification 
 
@@ -19,3 +20,7 @@ voila mes modification
 
 
  
+=======
+mais je veux le modifier 
+même le modifier encore plus 
+>>>>>>> 3d942b8cc26344109b3998c19a1ee92f9d1a49f6
