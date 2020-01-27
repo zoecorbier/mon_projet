@@ -1,7 +1,7 @@
 c'est mon texte 
 <<<<<<< HEAD
 mais je veux le modifier
-voila mes modification 
+même le modifier encore plus 
 
 
 
